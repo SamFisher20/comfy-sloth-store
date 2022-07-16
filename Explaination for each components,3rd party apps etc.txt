@@ -1,0 +1,1 @@
+Styled Components: Lets us to create classname with similar name reduntantly, which makes it easy going rather picking new and unique class names every time. For styling
