@@ -21,18 +21,6 @@ Gained insights and expertise in the following areas:
 - **Payment Processing:** Explored payment processing integration using the Stripe API, understanding the fundamentals of online transactions.
 - **Hosting and Deployment:** Learned the process of hosting and deploying a React application on Netlify, ensuring accessibility to a wider audience.
 
-## Future Works and Planning
-
-Explore our future plans for Comfy Sloth Store:
-
-| Task                                   | Description                                                                                       |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Enhance Payment Processing**         | Implement full-fledged payment processing with Stripe for real monetary transactions.            |
-| **Expand Product Categories**          | Introduce additional product categories and expand the range of interior products available.      |
-| **Optimize User Interface**            | Continuously improve and optimize the user interface for a more visually appealing experience.    |
-| **Implement Wishlist Feature**         | Add a wishlist feature to allow users to save and track their favorite products for future reference. |
-| **Internationalization (i18n)**        | Implement language localization to cater to a broader audience and improve user accessibility.     |
-
 ## Screenshots
 
 <a href="images/Home Page.png" target="_blank"><img src="images/Home_Page_thumb.png" alt="Home Page" width="200"/></a>
@@ -49,14 +37,14 @@ Explore our future plans for Comfy Sloth Store:
 3. Set up your environment variables for Auth0 and Stripe.
 4. Run the application with `npm start`.
 
-## Contributing
+## Future Works and Planning
 
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
+Explore our future plans for Comfy Sloth Store:
 
-## License
-
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-A special thanks to [List of contributors or any external libraries used].
+| Task                                   | Description                                                                                       |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Enhance Payment Processing**         | Implement full-fledged payment processing with Stripe for real monetary transactions.            |
+| **Expand Product Categories**          | Introduce additional product categories and expand the range of interior products available.      |
+| **Optimize User Interface**            | Continuously improve and optimize the user interface for a more visually appealing experience.    |
+| **Implement Wishlist Feature**         | Add a wishlist feature to allow users to save and track their favorite products for future reference. |
+| **Internationalization (i18n)**        | Implement language localization to cater to a broader audience and improve user accessibility.     |
