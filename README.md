@@ -48,3 +48,6 @@ Explore our future plans for Comfy Sloth Store:
 | **Optimize User Interface**            | Continuously improve and optimize the user interface for a more visually appealing experience.    |
 | **Implement Wishlist Feature**         | Add a wishlist feature to allow users to save and track their favorite products for future reference. |
 | **Internationalization (i18n)**        | Implement language localization to cater to a broader audience and improve user accessibility.     |
+| **Backend System Implementation**      | Develop a backend system to handle business logic, authentication, and serve as an API for the frontend. |
+| **Database System Implementation**    | Create a robust database system to store and manage specific details for products and user-related data. |
+
