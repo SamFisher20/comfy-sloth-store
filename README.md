@@ -5,17 +5,11 @@ Comfy Sloth Store is a React-based e-commerce project dedicated to interior prod
 ## Features
 
 - **React Hooks:** Leveraged useState and useReducer to efficiently manage component state and logic across 10+ components.
-  
 - **User Authentication:** Implemented user authentication through Auth0 for a secure and personalized user experience.
-
 - **Google Login Integration:** Enhanced user convenience and security with seamless Google login integration.
-
 - **Payment Processing with Stripe:** Utilized the Stripe API for payment processing, with the potential for future full-fledged monetary transactions.
-
 - **Hosted on Netlify:** The application is hosted on Netlify, ensuring accessibility and streamlined deployment.
-
 - **Dual View Mode:** Users can switch between a grid and list view for product listings, providing a customizable browsing experience.
-
 - **Advanced Filtering Options:** Implemented diverse filter options, allowing users to refine searches based on categories, price range, and other criteria.
 
 ## What I Learned
@@ -23,11 +17,8 @@ Comfy Sloth Store is a React-based e-commerce project dedicated to interior prod
 Gained insights and expertise in the following areas:
 
 - **Frontend Development:** Mastered React.js and its associated concepts, including state management with hooks and component-based architecture.
-
 - **Authentication and Authorization:** Implemented secure user authentication with Auth0 and integrated Google login for a seamless user experience.
-
 - **Payment Processing:** Explored payment processing integration using the Stripe API, understanding the fundamentals of online transactions.
-
 - **Hosting and Deployment:** Learned the process of hosting and deploying a React application on Netlify, ensuring accessibility to a wider audience.
 
 ## Future Works and Planning
